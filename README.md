@@ -14,6 +14,19 @@ The datasets that I worked on for this project are as follows:
 
 The complete specifications on the deliverables can be found in the document <code>Lyrid-Training-Deliverables.pdf</code>.
 
+# Built Using
+
+The Term 2, Academic Year 2020-2021 project consists of Jupyter notebooks, with the following Python libraries and modules used:
+
+Libraries/Modules | Website | License
+--- | ---| ---
+<code>re</code> | https://docs.python.org/3/library/re.html | Python Software Foundation License
+<code>pandas</code> | https://pandas.pydata.org/ | BSD 3-Clause "New" or "Revised" License
+<code>numpy</code> | https://numpy.org/ | BSD 3-Clause "New" or "Revised" License
+<code>plotly</code> | https://plotly.com/ | MIT License
+
+Special instructions for packages that are not automatically bundled with an Anaconda installation (e.g., <code>Plotly</code>) can be found in the pertinent notebooks.
+
 # About COMET
 
 *Taken from the official website: https://comet.dlsu.edu.ph/*
