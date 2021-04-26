@@ -6,7 +6,7 @@ This is a compilation of the activities and projects given to probationary Lyrid
 
 # Task
 
-The Term 2, Academic Year 2020-2021 training for the probationary Lyrids is inspired by the Tidy Tuesdays project of the R community. In order to introduce the probtionary Lyrids to the practice of data science, they are assigned a weekly selection of datasets and tasked to create Jupyter notebooks (Python) that detail the step-by-step processes of data preparation, descriptive and exploratory data analysis, and data visualization. 
+The Term 2, Academic Year 2020-2021 training for the probationary Lyrids is inspired by the Tidy Tuesdays project of the R community. As an introduction to the practice of data science, they are assigned a weekly selection of datasets and tasked to create Jupyter notebooks (Python) that detail the step-by-step processes of data preparation, descriptive and exploratory data analysis, and data visualization. 
 
 The datasets that I worked on for this project are as follows:
 - *Week 1:* <a href = "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset">Novel Coronavirus 2019 Dataset</a> from Kaggle
