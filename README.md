@@ -25,7 +25,7 @@ Libraries/Modules | Website | License
 <code>numpy</code> | https://numpy.org/ | BSD 3-Clause "New" or "Revised" License
 <code>plotly</code> | https://plotly.com/ | MIT License
 
-Special instructions for packages that are not automatically bundled with an Anaconda installation (e.g., <code>Plotly</code>) can be found in the pertinent notebooks.
+Special instructions for packages that are not automatically bundled with an Anaconda installation (e.g., <code>plotly</code>) can be found in the pertinent notebooks.
 
 # About COMET
 
