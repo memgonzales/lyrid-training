@@ -24,6 +24,7 @@ Libraries/Modules | Website | License
 <code>json</code> | https://docs.python.org/3/library/json.html | Python Software Foundation License
 <code>pandas</code> | https://pandas.pydata.org/ | BSD 3-Clause "New" or "Revised" License
 <code>numpy</code> | https://numpy.org/ | BSD 3-Clause "New" or "Revised" License
+<code>scipy</code> | https://www.scipy.org/ | BSD 3-Clause "New" or "Revised" License
 <code>matplotlib</code> | https://matplotlib.org/ | Matplotlib License (BSD-Compatible)
 <code>pywaffle</code> | https://pywaffle.readthedocs.io/en/latest/ | MIT License
 <code>plotly</code> | https://plotly.com/ | MIT License
