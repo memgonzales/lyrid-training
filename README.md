@@ -15,7 +15,7 @@ Week No. | Dataset | Source
 1 | <a href = "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset">Novel Coronavirus 2019 Dataset</a> | Kaggle
 2 | <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-02-18">2018 Food Consumption and CO<sub>2</sub> Emissions</a> | Tidy Tuesdays (Github)
 
-The complete specifications for the deliverables can be found in the document <a href = ""><code>Lyrid-Training-Deliverables.pdf</code></a>.
+The complete specifications for the deliverables can be found in the document <a href = "https://github.com/memgonzales/lyrid-training/blob/master/Lyrid-Training-Deliverables.pdf"><code>Lyrid-Training-Deliverables.pdf</code></a>.
 
 # Built Using
 
