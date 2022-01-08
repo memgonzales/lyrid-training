@@ -2,9 +2,9 @@
 
 This is a compilation of the activities and projects given to probationary Lyrids of the Center for Complexity and Emerging Technologies (COMET) as partial requirement for promotion to cohort membership. 
 
-**The projects in this compilation feature interactive maps and HTML markup. Since Github does not support dynamic displays for notebooks, it is necessary to download the projects to render the elements and to manipulate the data visualizations.**
+**The projects in this compilation feature interactive maps and HTML markup. Since GitHub does not support dynamic displays for notebooks, it is necessary to download the projects to render the elements and to manipulate the data visualizations.**
 
-# Task
+## Task
 
 The Term 2, Academic Year 2020-2021 training for the probationary Lyrids is inspired by the Tidy Tuesdays project of the R community. As an introduction to the practice of data science, they are assigned a weekly selection of datasets and tasked to create Jupyter notebooks that detail the step-by-step processes of data preparation, descriptive and exploratory data analysis, and data visualization. 
 
@@ -17,7 +17,7 @@ Week No. | Dataset | Source
 
 The complete specifications for the deliverables can be found in the document <a href = "https://github.com/memgonzales/lyrid-training/blob/master/Lyrid-Training-Deliverables.pdf"><code>Lyrid-Training-Deliverables.pdf</code></a>.
 
-# Built Using
+## Built Using
 
 The Term 2, Academic Year 2020-2021 project consists of Jupyter notebooks, with the following Python libraries and modules used:
 
@@ -36,13 +36,13 @@ Special instructions for packages that are not automatically bundled with an Ana
 
 *The descriptions are taken from their respective websites.*
 
-# About COMET
+## About COMET
 
 *Taken from the official website: https://comet.dlsu.edu.ph/*
 
 The Center for Complexity and Emerging Technologies (COMET) is an interdisciplinary research laboratory under the Advanced Research Institute for Informatics, Computing, and Networking (AdRIC) at De La Salle University, Manila, Philippines. Its mission is to enhance understanding of emergent phenomena in real-life systems, sociotechnical systems, and human-computer interactions. It develops computational models which are then used in the design of interactive tools, information systems, and interaction techniques.
 
-# Author
+## Author
 - **Mark Edward M. Gonzales** <br/>
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
