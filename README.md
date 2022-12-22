@@ -1,8 +1,15 @@
 # Training for Probationary Lyrids
 
+![badge][badge-jupyter]
+![badge][badge-python]
+![badge][badge-pandas]
+![badge][badge-numpy]
+![badge][badge-scipy]
+![badge][badge-plotly]
+
 This is a compilation of the activities and projects given to probationary Lyrids of the Center for Complexity and Emerging Technologies (COMET) as partial requirement for promotion to cohort membership. 
 
-**The projects in this compilation feature interactive maps and HTML markup. Since GitHub does not support dynamic displays for notebooks, it is necessary to download the projects to render the elements and to manipulate the data visualizations.**
+**The projects in this compilation feature interactive maps and HTML markup. Since GitHub does not support dynamic displays for notebooks, it is necessary to download the projects to render the elements and manipulate the data visualizations.**
 
 ## Task
 
@@ -47,3 +54,9 @@ The Center for Complexity and Emerging Technologies (COMET) is an interdisciplin
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
 
+[badge-jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white
+[badge-python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white
+[badge-pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white
+[badge-numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white
+[badge-scipy]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white
+[badge-plotly]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white
